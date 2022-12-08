@@ -41,6 +41,13 @@ I am a developer . . . <br />
   <img src="https://github.com/dingzehu/dingzehu/blob/main/icon/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/dingzehu/dingzehu/blob/main/icon/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### :fire: My Stats :
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dingzehu&theme=dark&background=000000) <br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dingzehu&layout=compact&theme=vision-friendly-dark) <br />
+
 <!---
 dingzehu/dingzehu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
