@@ -20,8 +20,6 @@ Software engineer at **[DESY](https://www.desy.de/)** (Deutsches Elektronen-Sync
 - 🎓 MSc Computer Science — Georg-August-Universität Göttingen (thesis: in-memory databases for near-real-time data analysis with Redis & MongoDB, **10× performance gain** over InfluxDB)
 - 🛠️ Day-to-day: Python · Django · React · Docker · data pipelines
 - 🌍 Languages: English (C1) · German (B1) · Mandarin (native)
-- 📬 Open to **Python / AI engineering roles** — fully remote (EU) or hybrid in Hamburg / South of France
-
 ---
 
 ### 🛠️ Languages & Tools
@@ -65,4 +63,3 @@ Software engineer at **[DESY](https://www.desy.de/)** (Deutsches Elektronen-Sync
 ### 📊 My Stats
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dingzehu&theme=dark&background=000000)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dingzehu&layout=compact&theme=vision-friendly-dark)
